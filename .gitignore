@@ -1,2 +1,3 @@
 dist/*
 printhon.egg-info/*
+.DS_Store
