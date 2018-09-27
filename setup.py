@@ -3,16 +3,15 @@ from setuptools import setup
 
 requires = ["requests>=2.14.2"]
 
-
 setup(
     name='printhon',
-    version='0.1',
-    description='Awesome library',
+    version='0.1.1',
+    description='Awesome python printor library',
     url='https://github.com/nanopoteto/printhon',
     author='nanopoteto',
-    author_email='ryota.natsume.26@address.com',
+    author_email='ryota.natsume.26@gmail.com',
     license='MIT',
-    keywords='sample setuptools development',
+    keywords='development',
     packages=[
         "printhon",
     ],
