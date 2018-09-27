@@ -2,4 +2,4 @@
 from .color import printb, printy, printg, printr
 from .namevalue import printnv
 
-__version__ = '0.1'
+__version__ = '0.1.3'

@@ -2,3 +2,4 @@ dist/*
 printhon.egg-info/*
 .DS_Store
 **.pyc
+build/*
