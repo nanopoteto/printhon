@@ -4,3 +4,8 @@ pp.printb('hoge')
 
 a = (1, 1, 2, 3, 5)
 pp.printnv(a)
+
+
+pp.color='red'
+
+pp.printnv(a)

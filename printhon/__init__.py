@@ -2,4 +2,7 @@
 from .color import printb, printy, printg, printr
 from .namevalue import printnv
 
-__version__ = '0.1.3'
+color = 'black'
+
+__version__ = '0.1.7'
+
