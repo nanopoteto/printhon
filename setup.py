@@ -5,7 +5,7 @@ requires = ["requests>=2.14.2"]
 
 setup(
     name='printhon',
-    version='0.1.7',
+    version='0.1.8',
     description='Awesome python printor library',
     url='https://github.com/nanopoteto/printhon',
     author='nanopoteto',
